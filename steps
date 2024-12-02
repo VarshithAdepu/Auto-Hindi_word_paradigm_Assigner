@@ -1,0 +1,4 @@
+run test_paradigm.py for extracting value from the dict
+run test_find_paradigm.py
+run check_matches.py
+run none_seperate.py

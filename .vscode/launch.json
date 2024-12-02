@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Python3: Debug",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "/home/varshith/Downloads/pradigm_nov_19/find_paradigm.py",
+        // "args": ["verified_sentences/062"], 
+        // "args": ["updated/example26"],
+        // "args": ["discource_sentences/097"],
+        // "args": ["construction/03"],
+        "cwd": "/home/varshith/Downloads/pradigm_nov_19",
+        "console": "integratedTerminal"
+      }
+    ]
+  }
